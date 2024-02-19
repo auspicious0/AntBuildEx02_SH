@@ -46,5 +46,13 @@ echo "Hello, Linux!"
 - **echo**: 스크립트가 성공적으로 생성되었음을 알리는 메시지를 출력합니다.
 
 ## 3. 실행 결과
-![image](https://github.com/auspicious0/AntBuildEx02_SH/assets/108572025/0814454a-b837-4e34-866b-03fab793448b)
+
+아래와 같이 설정한 위치에 파일이 생성됩니다.
+
+![image](https://github.com/auspicious0/AntBuildEx02_SH/assets/108572025/036a7148-98c8-43ca-9673-5929628fb63f)
+
+다음 쉘 파일을 linux로 옮겨 실행을 테스트해보겠습니다.
+![image](https://github.com/auspicious0/AntBuildEx02_SH/assets/108572025/50990a7f-f850-446f-982f-df8d47323562)
+
+정상적으로 실행됨을 확인할 수 있습니다.
 
