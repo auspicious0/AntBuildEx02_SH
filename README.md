@@ -52,7 +52,13 @@ echo "Hello, Linux!"
 ![image](https://github.com/auspicious0/AntBuildEx02_SH/assets/108572025/036a7148-98c8-43ca-9673-5929628fb63f)
 
 다음 쉘 파일을 linux로 옮겨 실행을 테스트해보겠습니다.
+
+
+
 ![image](https://github.com/auspicious0/AntBuildEx02_SH/assets/108572025/50990a7f-f850-446f-982f-df8d47323562)
+
+
+
 
 정상적으로 실행됨을 확인할 수 있습니다.
 
